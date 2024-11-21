@@ -1,0 +1,1 @@
+Los  códigos presentados en este repositorio han sido realizados y ejecutados en el entorno de Google Colab de manera individual, cada uno en un respectivo cuaderno para que las funciones no interfieran con la ejecución de los mismos.
